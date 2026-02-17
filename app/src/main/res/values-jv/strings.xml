@@ -65,4 +65,6 @@
     <string name="delete">Busek</string>
     <string name="operation_not_supported">tindakan menika mboten dipunsengkuyung</string>
     <string name="text_file_not_supported">Milih antawis berkas zip utawi cbz.</string>
+    <string name="hide_broken_sources">Singidaken sumber rusak</string>
+    <string name="hide_broken_sources_summary">Singidaken sumber sing ditandhani rusak saka dhaptar sumber</string>
 </resources>

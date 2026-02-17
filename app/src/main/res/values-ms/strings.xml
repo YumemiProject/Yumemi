@@ -860,4 +860,6 @@
     <string name="chapters_load_failed">Gagal memuatkan senarai bab</string>
     <string name="telegram_integration">Telegram integrasi</string>
     <string name="test_parser">Ujian manga sumber</string>
+    <string name="hide_broken_sources">Sembunyikan sumber yang rosak</string>
+    <string name="hide_broken_sources_summary">Sembunyikan sumber yang ditandakan sebagai rosak daripada senarai sumber</string>
 </resources>

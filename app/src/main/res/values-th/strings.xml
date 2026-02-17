@@ -445,4 +445,6 @@
     <string name="dont_allow">ไม่อนุญาต</string>
     <string name="pages_saved">บันทึกแล้ว</string>
     <string name="clear_thumbs_cache">ล้างแคชรูปย่อ</string>
+    <string name="hide_broken_sources">ซ่อนแหล่งที่มาที่เสียหาย</string>
+    <string name="hide_broken_sources_summary">ซ่อนแหล่งที่มาที่ทำเครื่องหมายว่าใช้งานไม่ได้จากรายการแหล่งที่มา</string>
 </resources>

@@ -75,4 +75,6 @@
     <string name="add_new_category">Categorie noua</string>
     <string name="add">Adauga</string>
     <string name="save">Salveaza</string>
+    <string name="hide_broken_sources">Ascunde sursele defecte</string>
+    <string name="hide_broken_sources_summary">Ascunde sursele marcate ca defecte din listele de surse</string>
 </resources>

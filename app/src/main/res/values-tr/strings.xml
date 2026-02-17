@@ -887,4 +887,6 @@
     <string name="pinned_sources_only">Yalnızca sabitlenen kaynaklar</string>
     <string name="hide_empty_sources">Boş kaynakları gizle</string>
     <string name="auto_double_foldable">Otomatik İki Sayfa Katlanabilir</string>
+    <string name="hide_broken_sources">Bozuk kaynakları gizle</string>
+    <string name="hide_broken_sources_summary">Kaynak listelerinde bozuk olarak işaretlenen kaynakları gizle</string>
 </resources>

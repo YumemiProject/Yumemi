@@ -840,4 +840,6 @@
     <string name="no_chapters_in_manga">Ta manga nie zawiera żadnych rozdziałów</string>
     <string name="chapters_load_failed">Nie udało się załadować listy rozdziałów</string>
     <string name="telegram_integration">Integracja z Telegramem</string>
+    <string name="hide_broken_sources">Ukryj uszkodzone źródła</string>
+    <string name="hide_broken_sources_summary">Ukryj źródła oznaczone jako uszkodzone na listach źródeł</string>
 </resources>

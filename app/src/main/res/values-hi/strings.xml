@@ -668,4 +668,6 @@
     <string name="retry">पुनः प्रयत्न करें</string>
     <string name="nsfw_16">१६+</string>
     <string name="too_many_requests_message_retry">बहुत अधिक अनुरोध. %s बाद में फिर से प्रयास करें</string>
+    <string name="hide_broken_sources">टूटे हुए स्रोत छिपाएँ</string>
+    <string name="hide_broken_sources_summary">स्रोत सूचियों से टूटे हुए के रूप में चिह्नित स्रोतों को छिपाएँ</string>
 </resources>

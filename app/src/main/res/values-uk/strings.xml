@@ -887,4 +887,6 @@
     <string name="auto_double_foldable">Автоматичне двосторінкове розміщення на складному</string>
     <string name="pinned_sources_only">Тільки закріплені джерела</string>
     <string name="hide_empty_sources">Приховати порожні джерела</string>
+    <string name="hide_broken_sources">Приховати зламані джерела</string>
+    <string name="hide_broken_sources_summary">Приховати зі списків джерел джерела, позначені як непрацездатні</string>
 </resources>

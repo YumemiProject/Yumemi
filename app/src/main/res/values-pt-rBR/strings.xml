@@ -884,4 +884,6 @@
     <string name="hide_empty_sources">Esconder fontes vazias</string>
     <string name="pinned_sources_only">Apenas fontes fixadas</string>
     <string name="auto_double_foldable">Duas Páginas Automático em Tela Dobrável</string>
+    <string name="hide_broken_sources">Ocultar fontes quebradas</string>
+    <string name="hide_broken_sources_summary">Ocultar fontes marcadas como quebradas nas listas de fontes</string>
 </resources>

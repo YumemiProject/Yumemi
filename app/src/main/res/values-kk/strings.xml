@@ -541,4 +541,6 @@
     <string name="pages_saved">Беттер сақталды</string>
     <string name="text_empty_holder_secondary_filtered">Сүзіп алғаныңызға сай маңга жоқ</string>
     <string name="nsfw_16">16+</string>
+    <string name="hide_broken_sources">Бұзылған дереккөздерді жасыру</string>
+    <string name="hide_broken_sources_summary">Дереккөз тізімдерінен бұзылған деп белгіленген дереккөздерді жасыру</string>
 </resources>

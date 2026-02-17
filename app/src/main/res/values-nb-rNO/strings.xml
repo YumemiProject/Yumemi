@@ -289,4 +289,6 @@
     <string name="enable_logging">Skru på loggføring</string>
     <string name="storage_usage">Lagringsbruk</string>
     <string name="sync_auth_hint">Du kan logge med en eksisterende konto, eller opprette en ny</string>
+    <string name="hide_broken_sources">Skjul ødelagte kilder</string>
+    <string name="hide_broken_sources_summary">Skjul kilder merket som brutt fra kildelister</string>
 </resources>

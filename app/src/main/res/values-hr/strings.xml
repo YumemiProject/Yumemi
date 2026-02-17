@@ -881,4 +881,6 @@
     <string name="available_pattern">%1$s dostupno</string>
     <string name="pinned_sources_only">Samo prikvačeni izvori</string>
     <string name="hide_empty_sources">Sakrij prazne izvore</string>
+    <string name="hide_broken_sources">Sakrij pokvarene izvore</string>
+    <string name="hide_broken_sources_summary">Sakrij izvore označene kao neispravne s popisa izvora</string>
 </resources>

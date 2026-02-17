@@ -734,4 +734,6 @@
     <string name="reader_actions">Läsarhandlingar</string>
     <string name="switch_pages_volume_buttons">Aktivera volymknapparna</string>
     <string name="state_abandoned">Övergiven</string>
+    <string name="hide_broken_sources">Dölj trasiga källor</string>
+    <string name="hide_broken_sources_summary">Dölj källor markerade som brutna från källlistor</string>
 </resources>

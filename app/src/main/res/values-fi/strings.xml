@@ -260,4 +260,6 @@
     <string name="select_range">Valitse alue</string>
     <string name="not_found_404">Sisältöä ei löydy tai se on poistettu</string>
     <string name="retry">Yritä uudelleen</string>
+    <string name="hide_broken_sources">Piilota rikkinäiset lähteet</string>
+    <string name="hide_broken_sources_summary">Piilota rikkinäisiksi merkityt lähteet lähdeluetteloista</string>
 </resources>

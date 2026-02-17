@@ -807,4 +807,6 @@
     <string name="tags_warnings_summary">ابراز التصنيفات التي قد تكون غير مناسبة لغالبية المستخدين.</string>
     <string name="error_non_file_uri">لا يمكن استخدام المسار المحدد لأنه لا يشير إلى ملف أو دليل.</string>
     <string name="manga_override_hint">ستؤثر هذه التغييرات على كيفية عرض المانجا في التطبيق.</string>
+    <string name="hide_broken_sources">إخفاء المصادر المكسورة</string>
+    <string name="hide_broken_sources_summary">إخفاء المصادر التي تم تمييزها على أنها معطلة من قوائم المصادر</string>
 </resources>

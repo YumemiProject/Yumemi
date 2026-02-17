@@ -539,4 +539,6 @@
     <string name="default_tab">Vaikimisi vahekaart</string>
     <string name="reading_time_estimation_summary">Ajahinnang ei pruugi olla täpne</string>
     <string name="catalog">Kataloog</string>
+    <string name="hide_broken_sources">Peida katkised allikad</string>
+    <string name="hide_broken_sources_summary">Peida katkiseks märgitud allikad allikaloenditest</string>
 </resources>

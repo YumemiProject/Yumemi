@@ -29,4 +29,6 @@
     <string name="search_manga">Ieškoti manga</string>
     <string name="remote_sources">Manga šaltiniai</string>
     <string name="manga_downloading_">Atsisiunčiama…</string>
+    <string name="hide_broken_sources">Slėpti sugedusius šaltinius</string>
+    <string name="hide_broken_sources_summary">Slėpti šaltinius, pažymėtus kaip neveikiančius, šaltinių sąrašuose</string>
 </resources>

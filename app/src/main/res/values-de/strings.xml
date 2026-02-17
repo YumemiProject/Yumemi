@@ -653,4 +653,6 @@
     <string name="plugin_incompatible">Inkompatibles Plugin oder Interner Fehler. Stelle sicher, dass du die letzte Version von Yukimi und die des Plugins verwendest</string>
     <string name="reader_navigation_inverted">Steuerung umkehren</string>
     <string name="minutes_seconds_short">%1$d m %2$d s</string>
+    <string name="hide_broken_sources">Defekte Quellen ausblenden</string>
+    <string name="hide_broken_sources_summary">Als defekt markierte Quellen aus Quellenlisten ausblenden</string>
 </resources>

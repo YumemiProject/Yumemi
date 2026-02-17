@@ -879,4 +879,6 @@
     <string name="data_removal">Remover dados</string>
     <string name="privacy">Privacidade</string>
     <string name="source_broken_warning">Esta fonte de mangá foi marcada como quebrada. Alguns recursos podem não funcionar</string>
+    <string name="hide_broken_sources">Ocultar fontes quebradas</string>
+    <string name="hide_broken_sources_summary">Ocultar fontes marcadas como quebradas nas listas de fontes</string>
 </resources>

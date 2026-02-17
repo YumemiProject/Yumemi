@@ -74,4 +74,6 @@
     <string name="delete_manga">Elimina manga</string>
     <string name="reader_settings">Configuració del lector</string>
     <string name="clear_search_history">Esborrar l\'historial de cerca</string>
+    <string name="hide_broken_sources">Amaga fonts trencades</string>
+    <string name="hide_broken_sources_summary">Amaga les fonts marcades com a trencades de les llistes de fonts</string>
 </resources>

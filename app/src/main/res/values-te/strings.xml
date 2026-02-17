@@ -118,4 +118,6 @@
     <string name="clear_updates_feed">నవీకరణ ఫీడ్ క్లియర్ చెయ్యి</string>
     <string name="updates_feed_cleared">ఫీడ్ క్లియర్ అయింది</string>
     <string name="rotate_screen">స్క్రీన్ తిరగబెట్టు</string>
+    <string name="hide_broken_sources">విరిగిన మూలాలను దాచండి</string>
+    <string name="hide_broken_sources_summary">మూలాధార జాబితాల నుండి విరిగినట్లుగా గుర్తించబడిన మూలాధారాలను దాచండి</string>
 </resources>
