@@ -8,6 +8,4 @@
     <string name="share_s">%s 𐌳𐌰𐌹𐌻𐌾𐌰𐌽</string>
     <string name="search">𐍃𐍉𐌺𐌾𐌰𐌽</string>
     <string name="search_manga">𐌼𐌰𐌲𐌲𐌰 𐍃𐍉𐌺𐌾𐌰𐌽</string>
-    <string name="hide_broken_sources">Hide broken sources</string>
-    <string name="hide_broken_sources_summary">Hide sources marked as broken from source lists</string>
 </resources>

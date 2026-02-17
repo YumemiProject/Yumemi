@@ -386,6 +386,4 @@
     <string name="downloads_paused">Stansa hentingane</string>
     <string name="sync_auth_hint">Du kan logge inn på ein konto du alt har, eller lage ein ny ein</string>
     <string name="invalid_value_message">Ugild verdi</string>
-    <string name="hide_broken_sources">Skjul ødelagte kilder</string>
-    <string name="hide_broken_sources_summary">Skjul kilder merket som brutt fra kildelister</string>
 </resources>

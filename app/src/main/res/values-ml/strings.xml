@@ -25,6 +25,4 @@
     <string name="passwords_mismatch">പൊരുത്തപ്പെടാത്ത പാസ്‌വേഡുകൾ</string>
     <string name="password_length_hint">പാസ്‌വേഡിൽ കുറഞ്ഞത് നാലു അക്ഷരങ്ങൾ ഉണ്ടായിരിക്കണം</string>
     <string name="welcome">സ്വാഗതം</string>
-    <string name="hide_broken_sources">തകർന്ന ഉറവിടങ്ങൾ മറയ്ക്കുക</string>
-    <string name="hide_broken_sources_summary">ഉറവിട ലിസ്റ്റുകളിൽ നിന്ന് തകർന്നതായി അടയാളപ്പെടുത്തിയ ഉറവിടങ്ങൾ മറയ്ക്കുക</string>
 </resources>

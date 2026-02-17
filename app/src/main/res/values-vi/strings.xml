@@ -882,6 +882,4 @@
     <string name="download_default_directory">Đường dẫn mặc định để tải truyện về thiết bị</string>
     <string name="private_app_directory_warning">Đường dẫn này với tất cả dữ liệu của ứng dụng sẽ bị xóa nếu bạn gỡ ứng dụng Yukimi</string>
     <string name="available_pattern">Hiện có sẵn %1$s</string>
-    <string name="hide_broken_sources">Ẩn các nguồn bị hỏng</string>
-    <string name="hide_broken_sources_summary">Ẩn các nguồn được đánh dấu là bị hỏng khỏi danh sách nguồn</string>
 </resources>

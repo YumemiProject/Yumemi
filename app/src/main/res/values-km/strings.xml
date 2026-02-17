@@ -129,6 +129,4 @@
     <string name="sources_pinned">ខ្ទាស់​ប្រភពទាំងអស់</string>
     <string name="unpin">ដកខ្ទាស់</string>
     <string name="pin">ដាក់ខ្ទស់</string>
-    <string name="hide_broken_sources">លាក់ប្រភពដែលខូច</string>
-    <string name="hide_broken_sources_summary">លាក់ប្រភពដែលបានសម្គាល់ថាខូចពីបញ្ជីប្រភព</string>
 </resources>

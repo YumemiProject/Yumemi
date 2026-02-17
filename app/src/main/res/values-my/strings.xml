@@ -32,6 +32,4 @@
     <string name="search">ရှာဖွေ</string>
     <string name="search_manga">Manga ကိုရှာမည်</string>
     <string name="manga_downloading_">Donwload လုပ်နေ…</string>
-    <string name="hide_broken_sources">ကျိုးပဲ့နေသော အရင်းအမြစ်များကို ဖျောက်ပါ။</string>
-    <string name="hide_broken_sources_summary">အရင်းအမြစ်စာရင်းများမှ ပျက်နေသည်ဟု အမှတ်အသားပြုထားသည့် အရင်းအမြစ်များကို ဖျောက်ထားပါ။</string>
 </resources>

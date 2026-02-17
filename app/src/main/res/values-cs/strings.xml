@@ -883,6 +883,4 @@
     <string name="download_default_directory">Výchozí adresář pro stahování mangy</string>
     <string name="private_app_directory_warning">Tento adresář a všechna data v něm budou smazána, pokud odinstalujete aplikaci</string>
     <string name="available_pattern">%1$s dostupný</string>
-    <string name="hide_broken_sources">Skryjte poškozené zdroje</string>
-    <string name="hide_broken_sources_summary">Skrýt zdroje označené jako poškozené ze seznamů zdrojů</string>
 </resources>

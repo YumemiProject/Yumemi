@@ -534,6 +534,4 @@
     <string name="appwidget_recent_description">Τα πρόσφατα διαβασμένα manga σου</string>
     <string name="clear_cookies_summary">Μπορεί να βοηθήσει σε περίπτωση κάποιων προβλημάτων. Όλες οι εξουσιοδοτήσεις θα ανακληθούν</string>
     <string name="category_hidden_done">Αυτή η κατηγορία αποκρύφτηκε από την αρχική οθόνη και είναι προσβάσιμη μέσω του Μενού → Διαχείριση κατηγοριών</string>
-    <string name="hide_broken_sources">Απόκρυψη κατεστραμμένων πηγών</string>
-    <string name="hide_broken_sources_summary">Απόκρυψη πηγών που έχουν επισημανθεί ως κατεστραμμένες από τις λίστες πηγών</string>
 </resources>

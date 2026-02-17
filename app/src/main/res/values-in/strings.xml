@@ -885,6 +885,4 @@
     <string name="available_pattern">%1$s tersedia</string>
     <string name="pinned_sources_only">Hanya sumber yang disematkan</string>
     <string name="hide_empty_sources">Sembunyikan sumber kosong</string>
-    <string name="hide_broken_sources">Sembunyikan sumber yang rusak</string>
-    <string name="hide_broken_sources_summary">Sembunyikan sumber yang ditandai sebagai rusak dari daftar sumber</string>
 </resources>

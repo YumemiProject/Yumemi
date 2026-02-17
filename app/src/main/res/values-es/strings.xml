@@ -864,6 +864,4 @@
     <string name="pull_bottom_no_next">No existe capítulo siguiente</string>
     <string name="enable_pull_gesture_title">Habilitar gesto de arrastrar</string>
     <string name="enable_pull_gesture_summary">Usa el gesto de arrastrar para cambiar de capítulo en webtoon</string>
-    <string name="hide_broken_sources">Ocultar fuentes rotas</string>
-    <string name="hide_broken_sources_summary">Ocultar las fuentes marcadas como rotas en las listas de fuentes</string>
 </resources>

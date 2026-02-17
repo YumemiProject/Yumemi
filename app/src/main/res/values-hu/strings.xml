@@ -639,6 +639,4 @@
     <string name="search_suggestions">Keresési javaslatok</string>
     <string name="recent_queries">Legutóbbi lekérdezések</string>
     <string name="less_frequently">Ritkábban</string>
-    <string name="hide_broken_sources">A törött források elrejtése</string>
-    <string name="hide_broken_sources_summary">A töröttként megjelölt források elrejtése a forráslistákból</string>
 </resources>

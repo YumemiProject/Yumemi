@@ -609,6 +609,4 @@
     <string name="split_by_translations">بخش‌بندی بر اساس ترجمه‌ه</string>
     <string name="split_by_translations_summary">نمایش فصل ها با ترجمه های مختلف به صورت جداگانه بجای نمایش در یک لیست</string>
     <string name="order_oldest">قدیمی ترین</string>
-    <string name="hide_broken_sources">مخفی کردن منابع شکسته</string>
-    <string name="hide_broken_sources_summary">مخفی کردن منابع علامت‌گذاری‌شده به‌عنوان شکسته از فهرست‌های منبع</string>
 </resources>

@@ -19,6 +19,4 @@
     <string name="try_again">Probeer het opnieuw</string>
     <string name="retry">Opnieuw proberen</string>
     <string name="clear_history">Geschiedenis wissen</string>
-    <string name="hide_broken_sources">Verberg kapotte bronnen</string>
-    <string name="hide_broken_sources_summary">Verberg bronnen die als gebroken zijn gemarkeerd in bronnenlijsten</string>
 </resources>

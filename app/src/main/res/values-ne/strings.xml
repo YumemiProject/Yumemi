@@ -238,6 +238,4 @@
     <string name="email_enter_hint">जारी राख्न आफ्नो इमेल प्रविष्ट गर्नुहोस्</string>
     <string name="hide">लुकाउनुहोस्</string>
     <string name="pages_saved">पृष्ठहरू सुरक्षित गरियो</string>
-    <string name="hide_broken_sources">टुटेको स्रोतहरू लुकाउनुहोस्</string>
-    <string name="hide_broken_sources_summary">स्रोत सूचीबाट टुटेको रूपमा चिन्ह लगाइएका स्रोतहरू लुकाउनुहोस्</string>
 </resources>

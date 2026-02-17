@@ -815,6 +815,4 @@
     <string name="pin">ピン</string>
     <string name="unpin">ピンを外す</string>
     <string name="source_pinned">ソース ピン留め</string>
-    <string name="hide_broken_sources">壊れたソースを隠す</string>
-    <string name="hide_broken_sources_summary">壊れているとマークされたソースをソース リストから非表示にする</string>
 </resources>

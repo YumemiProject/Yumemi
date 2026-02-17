@@ -25,6 +25,4 @@
 	<string name="check_for_new_chapters">ନୂଆ ଅଧ୍ୟାୟ ପାଇଁ ଯାଞ୍ଚ କରିବା</string>
 	<string name="file_not_found">ଫାଇଲ ମିଳୁନାହିଁ</string>
 	<string name="backup_restore">ବ୍ୟାକଅପ୍ ଓ ପୁନରୁଦ୍ଧାର</string>
-    <string name="hide_broken_sources">ଭଙ୍ଗା ଉତ୍ସଗୁଡିକ ଲୁଚାନ୍ତୁ |</string>
-    <string name="hide_broken_sources_summary">ଉତ୍ସ ତାଲିକାରୁ ଭଙ୍ଗା ଭାବରେ ଚିହ୍ନିତ ଉତ୍ସଗୁଡିକ ଲୁଚାନ୍ତୁ |</string>
 </resources>

@@ -18,6 +18,4 @@
     <string name="network_error">ਨੈੱਟਵਰਕ ਖਰਾਬ</string>
     <string name="list">ਲਿਸਟ</string>
     <string name="detailed_list">ਵੇਰਵਾ ਲਿਸਟ</string>
-    <string name="hide_broken_sources">ਟੁੱਟੇ ਸਰੋਤਾਂ ਨੂੰ ਲੁਕਾਓ</string>
-    <string name="hide_broken_sources_summary">ਸਰੋਤ ਸੂਚੀਆਂ ਤੋਂ ਟੁੱਟੇ ਵਜੋਂ ਚਿੰਨ੍ਹਿਤ ਸਰੋਤਾਂ ਨੂੰ ਲੁਕਾਓ</string>
 </resources>

@@ -884,6 +884,4 @@
     <string name="download_default_directory">Cartella predefinita per scaricare manga</string>
     <string name="private_app_directory_warning">Questa cartella e tutti i suoi dati verranno eliminati se disinstalli l\'applicazione</string>
     <string name="available_pattern">%1$s disponibile</string>
-    <string name="hide_broken_sources">Nascondi fonti non funzionanti</string>
-    <string name="hide_broken_sources_summary">Nascondi dagli elenchi le fonti contrassegnate come non funzionanti</string>
 </resources>

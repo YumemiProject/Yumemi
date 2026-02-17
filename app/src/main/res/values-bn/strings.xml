@@ -218,6 +218,4 @@
     <string name="skip_all">সব এড়িয়ে যান</string>
     <string name="stuck">আটকে গেছে</string>
     <string name="source_broken_warning">এই মঙ্গা সূত্রটি\nভাঙ্গা হিসাবে চিহ্নিত। কিছু বৈশিষ্ট্য \nকাজ নাও হতে পারে</string>
-    <string name="hide_broken_sources">ভাঙ্গা উত্স লুকান</string>
-    <string name="hide_broken_sources_summary">উৎস তালিকা থেকে ভাঙা হিসাবে চিহ্নিত উৎসগুলি লুকান৷</string>
 </resources>

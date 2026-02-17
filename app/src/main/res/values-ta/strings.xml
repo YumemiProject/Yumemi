@@ -858,6 +858,4 @@
     <string name="pull_bottom_no_next">அடுத்த அத்தியாயம் இல்லை</string>
     <string name="enable_pull_gesture_title">இழுக்கும் சைகையை இயக்கவும்</string>
     <string name="enable_pull_gesture_summary">வெப்டூனில் அத்தியாயங்களை மாற்ற புல் சைகையைப் பயன்படுத்தவும்</string>
-    <string name="hide_broken_sources">உடைந்த ஆதாரங்களை மறை</string>
-    <string name="hide_broken_sources_summary">மூலப் பட்டியல்களிலிருந்து உடைந்ததாகக் குறிக்கப்பட்ட ஆதாரங்களை மறை</string>
 </resources>

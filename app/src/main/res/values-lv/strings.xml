@@ -161,6 +161,4 @@
     <string name="captcha_solve">Risināt</string>
     <string name="clear_cookies">Attīrīt sīkdatnes</string>
     <string name="cookies_cleared">Visas sīkdatnes noņemtas</string>
-    <string name="hide_broken_sources">Slēpt bojātos avotus</string>
-    <string name="hide_broken_sources_summary">Slēpt avotus, kas atzīmēti kā bojāti, no avotu sarakstiem</string>
 </resources>

@@ -882,6 +882,4 @@
     <string name="private_app_directory_warning">Данный каталог вместе со всеми данными будет удалён при удалении приложения</string>
     <string name="available_pattern">%1$s доступно</string>
     <string name="enter_name">Введите имя</string>
-    <string name="hide_broken_sources">Скрыть сломанные источники</string>
-    <string name="hide_broken_sources_summary">Скрыть источники, помеченные как сломанные, из списков источников</string>
 </resources>
